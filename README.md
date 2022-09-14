@@ -1,4 +1,4 @@
-!()[https://i.imgur.com/gCZ1Wfi.png]
+![imagen](https://i.imgur.com/gCZ1Wfi.png)
 # DPDT Relay
 
 ## Introducción
